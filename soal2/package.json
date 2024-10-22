@@ -1,0 +1,15 @@
+{
+  "name": "transaksi-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "insert": "node insert.js"
+  },
+  "dependencies": {
+    "express": "^4.21.1",
+    "mysql2": "^3.11.3",
+    "sequelize": "^6.32.1"
+  }
+}
