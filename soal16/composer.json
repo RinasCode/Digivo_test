@@ -1,0 +1,12 @@
+{
+    "name": "yourname/minimal-framework",
+    "description": "A minimal PHP framework with MVC architecture.",
+    "require": {
+        "php": "^7.4 || ^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "app/"
+        }
+    }
+}
