@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "67187002a7c8ca87aaaff163"
+  },
+  "name": "Sample Product",
+  "stock": 98,
+  "total_sold": 2
+},
+{
+  "_id": {
+    "$oid": "67187f10a7c8ca87aaaff169"
+  },
+  "name": "Sample Product1",
+  "stock": 100,
+  "total_sold": 0
+},
+{
+  "_id": {
+    "$oid": "67187f17a7c8ca87aaaff16a"
+  },
+  "name": "Sample Product2",
+  "stock": 100,
+  "total_sold": 0
+},
+{
+  "_id": {
+    "$oid": "67187f20a7c8ca87aaaff16b"
+  },
+  "name": "Sample Product3",
+  "stock": 100,
+  "total_sold": 0
+},
+{
+  "_id": {
+    "$oid": "67187f27a7c8ca87aaaff16c"
+  },
+  "name": "Sample Product4",
+  "stock": 100,
+  "total_sold": 0
+},
+{
+  "_id": {
+    "$oid": "67187f2fa7c8ca87aaaff16d"
+  },
+  "name": "Sample Product5",
+  "stock": 100,
+  "total_sold": 0
+},
+{
+  "_id": {
+    "$oid": "67188b643af98d63c46f4daf"
+  },
+  "name": "Tablet",
+  "stock": 10,
+  "total_sold": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67188bd3d30834a289e160bd"
+  },
+  "name": "Tablet",
+  "stock": 10,
+  "total_sold": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67188c30b1cbe995656a5e9a"
+  },
+  "name": "Tablet",
+  "stock": 10,
+  "total_sold": 0,
+  "__v": 0
+}]

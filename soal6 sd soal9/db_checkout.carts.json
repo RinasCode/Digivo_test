@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "67188bd3d30834a289e160bf"
+  },
+  "productId": {
+    "$oid": "67188bd3d30834a289e160bd"
+  },
+  "quantity": 2,
+  "email": "user@example.com",
+  "dateAdded": {
+    "$date": "2024-10-23T05:38:27.322Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67188c30b1cbe995656a5e9c"
+  },
+  "productId": {
+    "$oid": "67188c30b1cbe995656a5e9a"
+  },
+  "quantity": 2,
+  "email": "user@example.com",
+  "dateAdded": {
+    "$date": "2024-10-23T05:40:00.151Z"
+  },
+  "__v": 0
+}]
